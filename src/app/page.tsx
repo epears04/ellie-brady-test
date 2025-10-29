@@ -13,6 +13,9 @@ export default function Home() {
           <p className={styles.about}>
             Ellie Pearson is a computer science student at California Polytechnic State University - San Luis Obispo. 
           </p>
+          <p className={styles.about}>
+            Ellie is friends with Brady! :)
+          </p>
         </section>
 
         <section className={styles.section}>
